@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b181a3df-0880-4840-a956-0d5c441f9dbd" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AIFriends.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/web/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/TheWelcome.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/WelcomeItem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconCommunity.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconDocumentation.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconEcosystem.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconSupport.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/components/icons/IconTooling.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/vite.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +34,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
@@ -28,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000000735" />
-      <entry key="S2" value="1.0005345139118" />
-      <entry key="S5" value="1.0600047087121838" />
-      <entry key="S10" value="1.3272550479128484" />
-      <entry key="S30" value="2.078551859382908" />
-      <entry key="S60" value="2.4660442595429384" />
-      <entry key="M2" value="2.711554775339983" />
-      <entry key="M5" value="2.879000183526131" />
-      <entry key="M10" value="2.9385209178529834" />
-      <entry key="M15" value="2.95879471171225" />
-      <entry key="M30" value="2.984657147560564" />
-      <entry key="H1" value="3.300497135359604" />
-      <entry key="H2" value="5.360222262833384" />
-      <entry key="H4" value="9.522452000860058" />
-      <entry key="D1" value="18.198864194678922" />
-      <entry key="W1" value="20.570262109349606" />
+      <entry key="MS100" value="1.000000083711438" />
+      <entry key="MS500" value="1.0384199646017056" />
+      <entry key="S2" value="1.442730301494003" />
+      <entry key="S5" value="1.7233938127541801" />
+      <entry key="S10" value="1.9498562538219706" />
+      <entry key="S30" value="3.634247561076329" />
+      <entry key="S60" value="5.406499711726593" />
+      <entry key="M2" value="6.89756351175437" />
+      <entry key="M5" value="8.539400658870274" />
+      <entry key="M10" value="11.588464316639607" />
+      <entry key="M15" value="15.635915241238655" />
+      <entry key="M30" value="26.54945467173819" />
+      <entry key="H1" value="38.93972601268537" />
+      <entry key="H2" value="51.70325962101984" />
+      <entry key="H4" value="66.19219590439928" />
+      <entry key="D1" value="126.90786049284019" />
+      <entry key="W1" value="165.33088156312746" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="0.0" />
-      <entry key="M5" value="0.0" />
-      <entry key="M10" value="0.0" />
-      <entry key="M15" value="0.0" />
-      <entry key="M30" value="0.0" />
-      <entry key="H1" value="0.0" />
-      <entry key="H2" value="0.0" />
-      <entry key="H4" value="0.0" />
-      <entry key="D1" value="0.0" />
-      <entry key="W1" value="0.0" />
+      <entry key="MS100" value="1.5330499930992764E-50" />
+      <entry key="MS500" value="1.0892091060888468E-10" />
+      <entry key="S2" value="0.003230560032981504" />
+      <entry key="S5" value="0.10085817985171498" />
+      <entry key="S10" value="0.31758176876469935" />
+      <entry key="S30" value="0.6822630547324867" />
+      <entry key="S60" value="0.8259975403086169" />
+      <entry key="M2" value="0.9111660846122327" />
+      <entry key="M5" value="1.0606474825251593" />
+      <entry key="M10" value="1.4628888060639218" />
+      <entry key="M15" value="2.0071833982591922" />
+      <entry key="M30" value="3.6053711615300985" />
+      <entry key="H1" value="5.7003480058232965" />
+      <entry key="H2" value="8.525391563531045" />
+      <entry key="H4" value="12.20093680992321" />
+      <entry key="D1" value="22.34207366965468" />
+      <entry key="W1" value="27.0133418463043" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8066417592221263" />
-      <entry key="MS500" value="0.9579352182226969" />
-      <entry key="S2" value="0.9894688434304444" />
-      <entry key="S5" value="1.035568034816052" />
-      <entry key="S10" value="1.2724156004521519" />
-      <entry key="S30" value="2.024289010289442" />
-      <entry key="S60" value="2.430242813165439" />
-      <entry key="M2" value="2.690979148071627" />
-      <entry key="M5" value="2.8700509898039117" />
-      <entry key="M10" value="2.9339195096196278" />
-      <entry key="M15" value="2.9556983862508703" />
-      <entry key="M30" value="2.9830941722116866" />
-      <entry key="H1" value="3.2997026984557682" />
-      <entry key="H2" value="5.359792256636049" />
-      <entry key="H4" value="9.52220415304021" />
-      <entry key="D1" value="18.198811432442337" />
-      <entry key="W1" value="20.570254123430125" />
+      <entry key="MS100" value="0.8585654364474884" />
+      <entry key="MS500" value="0.9762376446914096" />
+      <entry key="S2" value="1.2741837269348208" />
+      <entry key="S5" value="1.6407014191384948" />
+      <entry key="S10" value="2.07459961676882" />
+      <entry key="S30" value="4.189722980398784" />
+      <entry key="S60" value="6.155745146547508" />
+      <entry key="M2" value="7.766234729428023" />
+      <entry key="M5" value="9.579612789163384" />
+      <entry key="M10" value="13.03584769607353" />
+      <entry key="M15" value="17.62832076985404" />
+      <entry key="M30" value="30.141601985059108" />
+      <entry key="H1" value="44.63009066911262" />
+      <entry key="H2" value="60.22182496635312" />
+      <entry key="H4" value="78.38871572101516" />
+      <entry key="D1" value="149.24884423385416" />
+      <entry key="W1" value="192.3440480670614" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -97,28 +113,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;24.18.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;24.13.3&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/jintaowu-learn/AIFriends/backend/web/templates&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\pycharm\\PyCharm 2026.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jintaowu-learn\AIFriends\backend\web\templates" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -135,7 +166,10 @@
       <updated>1786414393098</updated>
       <workItem from="1786414394286" duration="668000" />
       <workItem from="1786415233360" duration="1484000" />
-      <workItem from="1786416736558" duration="9026000" />
+      <workItem from="1786416736558" duration="23093000" />
+      <workItem from="1786583821691" duration="10368000" />
+      <workItem from="1786612588369" duration="1489000" />
+      <workItem from="1786690577827" duration="3709000" />
     </task>
     <servers />
   </component>
